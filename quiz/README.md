@@ -63,17 +63,17 @@
 **11. What advantage does Wails have over Electron?**
 - A) Node.js runtime support
 - B) Requires bundling Chromium
-- C) Lower resource usage and single executable output  *(Correct Answer)*
+- C) Lower resource usage and single executable output  (Correct Answer)
 - D) Built-in database integration
 
 **12. What does Wails use for communication between frontend and backend?**
--A) REST APIs
--B) GraphQL
--C) JavaScript bindings  *(Correct Answer)*
--D) Websockets
+- A) REST APIs
+- B) GraphQL
+- C) JavaScript bindings  (Correct Answer)
+- D) Websockets
 
 **13. How does Wails handle frontend changes during development?**
-A) Requires manual rebuilds
-B) Hot-reloads in the browser when assets change  *(Correct Answer)*
-C) Triggers a server restart
-D) Logs errors without reloading
+- A) Requires manual rebuilds
+- B) Hot-reloads in the browser when assets change  (Correct Answer)
+- C) Triggers a server restart
+- D) Logs errors without reloading
