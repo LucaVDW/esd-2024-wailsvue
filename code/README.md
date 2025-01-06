@@ -42,7 +42,8 @@ If you get stuck or just want to quickly peek into how we intended a task to be 
 [Task 6: Element References](frontend/src/tasks/task-6/README.md)  
 [Task 7: List Rendering](frontend/src/tasks/task-7/README.md)  
 [Task 8: Custom Components](frontend/src/tasks/task-8/README.md)  
-[Task 9: Two-Way Data Binding](frontend/src/tasks/task-9/README.md)  
+[Task 9: Two-Way Data Binding](frontend/src/tasks/task-9/README.md) 
+[Task 10: Complex Event Handling](frontend/src/tasks/task-10/README.md)
 
 
 ## Building for Production
